@@ -234,7 +234,7 @@
     "regexCharacterClass": "#4a89c5",
     "regexOtherEscape": "#4a89c5",
     "regexAnchor": "#4a89c5",
-    "regexQuantifier": "#b969cb",
+    "regexQuantifier": "#c36dbc",
 
     // python
     "module:python": { "fontStyle": "", "foreground": "#3d67ca" },
@@ -341,7 +341,7 @@
       "scope": ["meta.interpolation.cs", "meta.fstring.python"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#b969cb"
+        "foreground": "#c36dbc"
       }
     },
     {
@@ -353,7 +353,7 @@
         "punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#b969cb"
+        "foreground": "#c36dbc"
       }
     },
 
