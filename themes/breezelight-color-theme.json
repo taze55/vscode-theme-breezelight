@@ -97,18 +97,18 @@
 
     // tab
     "titleBar.activeForeground": "#1b4f05",
-    "titleBar.activeBackground": "#d5e8ef",
-    "titleBar.inactiveBackground": "#d5e8ef",
+    "titleBar.activeBackground": "#c8ebf7",
+    "titleBar.inactiveBackground": "#c8ebf7",
     "icon.foreground": "#545454",
-    "commandCenter.activeBackground": "#fafafc",
-    "commandCenter.background": "#fafafc",
+    "commandCenter.activeBackground": "#f4fafe",
+    "commandCenter.background": "#f4fafe",
     "commandCenter.foreground": "#202022",
     "commandCenter.inactiveForeground": "#202022",
-    "tab.activeBackground": "#ecf4fb",
+    "tab.activeBackground": "#e8f5ff",
     "tab.activeForeground": "#202022",
     "tab.inactiveForeground": "#78787a",
     "tab.inactiveBackground": "#fafafc",
-    "tab.activeBorderTop": "#93c7fa",
+    "tab.activeBorderTop": "#a2d4f3",
     "tab.activeBorder": "#ecf4fb",
     "tab.border": "#d8d8da",
     "list.warningForeground": "#b57205",
@@ -124,15 +124,15 @@
     "sideBar.background": "#fafafc",
     "sideBar.foreground": "#202022",
     "sideBar.border": "#d8d8da",
-    "sideBarSectionHeader.background": "#d9f1f7",
+    "sideBarSectionHeader.background": "#d5f2fa",
     "sideBarSectionHeader.foreground": "#29474f",
     "sideBarTitle.foreground": "#202022",
     "sideBarStickyScroll.shadow": "#d6d6d8",
     "sideBarStickyScroll.background": "#fafafc",
     "list.activeSelectionBackground": "#d4f6ea",
     "list.hoverBackground": "#eeeef1",
-    "list.focusAndSelectionOutline": "#d4f3e8",
-    "list.inactiveSelectionBackground": "#d4f3e8",
+    "list.focusAndSelectionOutline": "#d4f6ea",
+    "list.inactiveSelectionBackground": "#d4f6ea",
     "list.activeSelectionForeground": "#202022",
     "tree.indentGuidesStroke": "#e8e8ea",
 
@@ -254,7 +254,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#868c90"
+        "foreground": "#91979b"
       }
     },
     {
