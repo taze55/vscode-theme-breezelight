@@ -212,10 +212,10 @@
 
     // jumpy2
     "jumpy2.labelFontColor": "#fcfcfe",
-    "jumpy2.labelBackgroundColor": "#9cc9e3",
+    "jumpy2.labelBackgroundColor": "#84bada",
     "jumpy2.labelBorderColor": "#00000000",
     "jumpy2.checkered_labelFontColor": "#fcfcfe",
-    "jumpy2.checkered_labelBackgroundColor": "#6dd8d3",
+    "jumpy2.checkered_labelBackgroundColor": "#5ad0ca",
     "jumpy2.checkered_labelBorderColor": "#00000000",
     "jumpy2.beaconColor": "#000000ff",
 
@@ -234,7 +234,7 @@
     "regexCharacterClass": "#4a89c5",
     "regexOtherEscape": "#4a89c5",
     "regexAnchor": "#4a89c5",
-    "regexQuantifier": "#c36dbc",
+    "regexQuantifier": "#af6acb",
 
     // python
     "module:python": { "fontStyle": "", "foreground": "#3d67ca" },
@@ -341,7 +341,7 @@
       "scope": ["meta.interpolation.cs", "meta.fstring.python"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#c36dbc"
+        "foreground": "#af6acb"
       }
     },
     {
@@ -353,7 +353,7 @@
         "punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#c36dbc"
+        "foreground": "#af6acb"
       }
     },
 
