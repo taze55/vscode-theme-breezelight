@@ -80,7 +80,7 @@
     "input.foreground": "#202022",
 
     // badge
-    "badge.background": "#8bced7",
+    "badge.background": "#74c1cc",
     "badge.foreground": "#fcfeff",
 
     // git
@@ -96,7 +96,7 @@
     "gitDecoration.conflictingResourceForeground": "#f93e3e",
 
     // tab
-    "titleBar.activeForeground": "#1b4f05",
+    "titleBar.activeForeground": "#0974ad",
     "titleBar.activeBackground": "#c8ebf7",
     "titleBar.inactiveBackground": "#c8ebf7",
     "icon.foreground": "#545454",
@@ -129,10 +129,10 @@
     "sideBarTitle.foreground": "#202022",
     "sideBarStickyScroll.shadow": "#d6d6d8",
     "sideBarStickyScroll.background": "#fafafc",
-    "list.activeSelectionBackground": "#d4f6ea",
+    "list.activeSelectionBackground": "#caf9e8",
     "list.hoverBackground": "#eeeef1",
-    "list.focusAndSelectionOutline": "#d4f6ea",
-    "list.inactiveSelectionBackground": "#d4f6ea",
+    "list.focusAndSelectionOutline": "#caf9e8",
+    "list.inactiveSelectionBackground": "#caf9e8",
     "list.activeSelectionForeground": "#202022",
     "tree.indentGuidesStroke": "#e8e8ea",
 
@@ -141,7 +141,7 @@
     "activityBar.background": "#282828",
     "activityBar.activeBorder": "#9cdee8",
     "activityBar.inactiveForeground": "#919191",
-    "activityBarBadge.background": "#76bdc7",
+    "activityBarBadge.background": "#5fb4c0",
     "activityBarBadge.foreground": "#fefcff",
 
     // status bar
