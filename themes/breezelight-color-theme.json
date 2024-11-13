@@ -96,10 +96,10 @@
     "gitDecoration.conflictingResourceForeground": "#f93e3e",
 
     // tab
-    "titleBar.activeForeground": "#545454",
+    "titleBar.activeForeground": "#545458",
     "titleBar.activeBackground": "#c8ebf7",
     "titleBar.inactiveBackground": "#c8ebf7",
-    "icon.foreground": "#545454",
+    "icon.foreground": "#545458",
     "commandCenter.activeBackground": "#f4fafe",
     "commandCenter.background": "#f4fafe",
     "commandCenter.foreground": "#202022",
