@@ -76,8 +76,10 @@
     "quickInput.foreground": "#202022",
 
     // input
-    "input.background": "#fcfcfe",
+    "input.background": "#ffffff",
     "input.foreground": "#202022",
+    "dropdown.background": "#ffffff",
+    "dropdown.foreground": "#202022",
 
     // badge
     "badge.background": "#74c1cc",
