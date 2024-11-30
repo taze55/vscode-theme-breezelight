@@ -138,7 +138,7 @@
     "tree.indentGuidesStroke": "#e8e8ea",
 
     // activity bar
-    "activityBar.foreground": "#eaeaea",
+    "activityBar.foreground": "#a2e7f2",
     "activityBar.background": "#282828",
     "activityBar.activeBorder": "#9cdee8",
     "activityBar.inactiveForeground": "#919191",
